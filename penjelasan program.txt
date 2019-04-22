@@ -1,0 +1,5 @@
+Program tidak meminta masukan apapun
+program hanya akan menampilkan hasil dari data data yang sudah ditulis sendiri oleh penulis
+menggambarkan ciri ciri manusia yang berapa pada 2 daerah berbeda
+daerah tersebut yaitu Asia Tenggara dan Uni Eropa
+Terdapat jenis access protected
